@@ -1,5 +1,0 @@
-Lista de comandos Git
-git init: para iniciar un repositorio local
-git status: para ver el estado de nuestros archivos
-git config --global user.email "jalmoralesl@gmail.com": para indicar el correo del desarrollador
-git config --global user.name "jml": para indicar el nombre de usuario
